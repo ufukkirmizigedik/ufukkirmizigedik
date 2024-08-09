@@ -28,8 +28,9 @@ Currently, I work as a **Data Analyst** 📈, focusing on:
 
 Feel free to explore my repositories and connect if you’re interested in discussing technology, collaborating on projects, or sharing knowledge.
 
-**Contact me:
+**Contact me:**
 
-*Email: ufukkirmizigedik1984@gmail.com
-*Telegram: @K_Ufuk
+- **Email:** [ufukkirmizigedik1984@gmail.com](mailto:ufukkirmizigedik1984@gmail.com)
+- **Telegram:** [@K_Ufuk](https://t.me/K_Ufuk)
+  
 **Let’s innovate and create together! 🚀**
