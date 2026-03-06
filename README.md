@@ -1,36 +1,31 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Ufuk Kırмızıgedik
 
-I’m **Ufuk KIRMIZIGEDIK**, originally from Turkey but living in Russia since 2007. I’m an **Electronics Engineer** by training, currently working as a **Data Scientist**.
+🔧 **Automation Engineer** | Hardware + Software | Moscow, Russia  
+🇹🇷 Originally from Turkey, based in Russia since 2007
 
-My expertise spans across:
-- **Python** 🐍
-- **PostgreSQL** 🗃️
-- **Data Science** 📊
-- **Micropython** 🤖
-- **Microcontrollers** 🛠️
-- **Bots** 🤖
-- **Automation Systems** 🔧
-- **Algorithms** 📈
-- **Statistics** 📉
-- **Web Applications** 🌐
-- **Engineering** ⚙️
-- **Robotics** 🤖
-- **Measurement and Soldering** 🔬
-- **PCB Board Design** 🧩
+---
 
-My favorite area is integrating my knowledge into projects that involve system analysis and robotics.
+## What I Do
 
-Currently, I work as a **Data Analyst** 📈, focusing on:
-- **Reporting** 📝
-- **Anomaly Detection** 🔍
-- **System Development** 🏗️
-- **Forecasting** 🔮
+I build end-to-end systems where hardware meets software:  
+**Solder a component → Connect sensors → Write Python logic → Deploy to production**
 
-Feel free to explore my repositories and connect if you’re interested in discussing technology, collaborating on projects, or sharing knowledge.
+- 🤖 **IoT & Embedded** — Raspberry Pi, ESP32, UART/I2C/SPI
+- 📡 **RF Systems** — HackRF, real-time signal monitoring
+- 👁️ **Computer Vision** — YOLOv8, OAK-D Lite, Jetson Nano, LiDAR
+- 🐍 **Automation** — Python, Selenium, Playwright, Telegram Bots
+- 🗃️ **Data** — PostgreSQL, Flask, OpenAI API
 
-**Contact me:**
+---
 
-- **Email:** [ufukkirmizigedik1984@gmail.com](mailto:ufukkirmizigedik1984@gmail.com)
-- **Telegram:** [@K_Ufuk](https://t.me/K_Ufuk)
-  
-**Let’s innovate and create together! 🚀**
+## Featured Projects
+
+- 🔴 [RF Monitoring System](https://github.com/ufukkirmizigedik/rf-monitoring-system) — Real-time RF detection, GPIO relay, touchscreen GUI
+- 🚁 [Drone Detection YOLOv8](https://github.com/ufukkirmizigedik/drone-detection-yolov8) — Custom trained model on OAK-D Lite + Jetson Nano
+
+---
+
+## Contact
+
+📧 ufukkirmizigedik1984@gmail.com  
+💬 Telegram: [@K_Ufuk](https://t.me/K_Ufuk)
